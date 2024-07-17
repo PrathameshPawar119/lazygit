@@ -9,6 +9,13 @@ Lazygit is a VS Code extension that provides a webview-based chat interface allo
 ![image](https://github.com/user-attachments/assets/b2ddd113-15e1-4e1a-ac48-9cf60171eb67)
 
 
+#### Resources I Used
+- **Gemini AIStudio Docs **: [https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=node](https://ai.google.dev/gemini-api/docs/get-started/tutorial?lang=node)
+- **Vscode WebView Docs**: [[Contains the HTML and JavaScript for the webview content, including the React-based chat interface](https://code.visualstudio.com/api/extension-guides/webview#scripts-and-message-passing)](https://code.visualstudio.com/api/extension-guides/webview#scripts-and-message-passing).
+
+---
+
+
 #### Project Structure
 - **src/extension.ts**: Main entry point for the extension. It handles activation, command registration, and message communication between the webview and the extension.
 - **src/webview.ts**: Contains the HTML and JavaScript for the webview content, including the React-based chat interface.
