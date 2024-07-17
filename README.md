@@ -71,4 +71,5 @@ Lazygit is a VS Code extension that provides a webview-based chat interface allo
 
 ---
 
-This documentation provides a high-level overview of the Lazygit VS Code extension, detailing its structure, key components, and usage instructions. For more detailed code implementation, refer to the source files in the project.
+
+There is a little problem with inserintg commands into terminal, it worked fine on windows but on linux it is making some error 😅, I will solve it asap as documentation from vscode dosent cover it.
